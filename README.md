@@ -1,2 +1,2 @@
 # subtree-main
-This repository is practicing for using git subtree :)
+This repository is a place for I want to practice git subtree. :)
